@@ -14,3 +14,4 @@ to the Git repository [10].
 • Configure Jenkins to create a pipeline project that builds, tests, and deploys the
 application using Docker and Kubernetes, and visualize the deployment through
 Docker Desktop [20].
+  bhai gemini work agala so html code anupu
